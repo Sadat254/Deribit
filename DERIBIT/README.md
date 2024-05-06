@@ -16,3 +16,8 @@ You need an account with deribit, to test out the code I would recommend you mak
 ## [Subscribe](https://www.youtube.com/channel/UCsQqV_wq5yPrw5YIpvwmjvQ) to my youtube channel to find similar content.
 
 ## update test.deribit.com is having some issues with SSL certificates on their side - I assume the fix will be done soon - 30/12/2021 - 08:24am
+
+
+## Denzel Debug:
+
+## First error was an import of certif, and I removed it to solve the error, as it was an unused import
