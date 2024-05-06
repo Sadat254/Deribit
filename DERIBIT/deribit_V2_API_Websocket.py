@@ -2,7 +2,7 @@ import json
 import ssl
 import websocket
 from websocket import create_connection, WebSocketConnectionClosedException
-import certifi
+# import certif # I removed this unused import
 
 class Deribitv2API:
     def __init__(self):
